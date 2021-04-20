@@ -2,4 +2,4 @@
 
 Casos de uso
 
-![alt text](https://ibb.co/8PwcRBf)
+![alt text](https://i.ibb.co/vLWYrBT/Diagrama-en-blanco.jpg)
