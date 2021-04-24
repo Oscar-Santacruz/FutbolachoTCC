@@ -13,4 +13,8 @@
     <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="3.1.13" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Include="wwwroot\images\imagen1.jpg" />
+  </ItemGroup>
+
 </Project>
