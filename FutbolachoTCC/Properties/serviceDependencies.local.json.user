@@ -1,24 +1,9 @@
 {
   "dependencies": {
-    "secrets1": {
-      "restored": true,
-      "restoreTime": "2021-04-18T18:37:02.0933394Z"
-    },
     "mssql1": {
       "restored": true,
-      "restoreTime": "2021-04-18T18:36:47.5087434Z"
+      "restoreTime": "2021-09-29T03:33:49.4462511Z"
     }
   },
-  "parameters": {
-    "mssql1.subscriptionId": {
-      "Name": "mssql1.subscriptionId",
-      "Type": "subscription",
-      "Value": "f80f1658-affb-4c87-bdf4-bcf84404052a"
-    },
-    "mssql1.resourceGroupName": {
-      "Name": "mssql1.resourceGroupName",
-      "Type": "resourceGroup",
-      "Value": "futbolachoTCC"
-    }
-  }
+  "parameters": {}
 }
